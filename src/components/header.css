@@ -1,3 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Carattere&family=Dekko&family=Playwrite+HR:wght@300&display=swap');
+
 .menu>div:hover{
     text-decoration: underline;
+    cursor: pointer;
+}
+
+.header{
+    background: linear-gradient(899deg, #461919 30%, #ac4949 );
+
+}    
+.imgText{
+    font-family: "Playwrite HR", cursive;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.smallMenu{
+    height: 100vh;
+}
+
+.smallMenu div{
+    text-align: center;
+    padding:5px 14px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color:#fbbf24;
+    cursor: pointer;
+    border-radius: 6px;
+    border-bottom: 2px solid rgb(8, 8, 8);
+}
+
+.smallMenu div:hover{
+    transition-duration: 500ms;
+    color: white;
+    background-color: #A54646;
 }
