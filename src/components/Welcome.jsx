@@ -2,7 +2,7 @@ import React from 'react'
 
 const Welcome = () => {
   return (
-    <div className='text-gray-500'>
+    <div className='text-cyan-500 bg-[#fffca3] h-screen'>
       Welcome Page
     </div>
   )

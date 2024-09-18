@@ -5,15 +5,15 @@
     cursor: pointer;
 }
 
+/* background: linear-gradient(899deg, #461919 30%, #ac4949 ); */
 .header{
-    background: linear-gradient(899deg, #461919 30%, #ac4949 );
-
+    background-color: #C15D0B;
 }    
 .imgText{
     font-family: "Playwrite HR", cursive;
-  font-optical-sizing: auto;
-  font-weight: 300;
-  font-style: normal;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
 }
 
 .smallMenu{
